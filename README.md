@@ -11,3 +11,7 @@ Empty. No releases, no packages, no published data files.
 ## License
 
 Proprietary — see [LICENSE](LICENSE). All rights reserved, Copyright 2026 nirholas.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/market-capitalization-data&type=Date)](https://www.star-history.com/#nirholas/market-capitalization-data&Date)
