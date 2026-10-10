@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "market-capitalization-data"
+abstract: "Placeholder repository reserved for market capitalization data. No code or data published yet."
+repository-code: "https://github.com/nirholas/market-capitalization-data"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

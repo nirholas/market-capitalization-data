@@ -1,0 +1,22 @@
+# market-capitalization-data
+
+> Placeholder repository reserved for market capitalization data. No code or data published yet.
+
+market-capitalization-data is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/market-capitalization-data/blob/HEAD/README.md): install, usage and reference
+- [Status](https://github.com/nirholas/market-capitalization-data/blob/HEAD/README.md#status)
+- [License](https://github.com/nirholas/market-capitalization-data/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/market-capitalization-data/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/market-capitalization-data/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/market-capitalization-data)
+- [Issues](https://github.com/nirholas/market-capitalization-data/issues)
+- [Discussions](https://github.com/nirholas/market-capitalization-data/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
